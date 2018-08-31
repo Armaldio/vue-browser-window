@@ -1,6 +1,6 @@
 {
   "name": "vue-browser-window",
-  "version": "0.0.1",
+  "version": "0.0.0",
   "description": "Control the browsers window the Vue way!",
   "author": "Quentin Goinaud <armaldio@gmail.com>",
   "license": "MIT",
