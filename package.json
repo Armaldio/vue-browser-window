@@ -7,7 +7,8 @@
   "scripts": {
     "dev": "poi",
     "build": "poi build",
-    "test": "echo no tests"
+    "test": "echo no tests",
+    "deploy": "np --no-yarn"
   },
   "main": "dist/vue-browser-window.js",
   "files": [
